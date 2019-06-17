@@ -7294,9 +7294,9 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #fac564; }
+  color: #000000; }
   a:hover, a:active, a:focus {
-    color: #fac564;
+    color: #c1272c;
     outline: none !important;
     text-decoration: none !important; }
 
@@ -7308,7 +7308,7 @@ h1, h2, h3, h4, h5,
   font-family: "Josefin Sans", Arial, sans-serif; }
 
 .text-primary {
-  color: #fac564 !important; }
+  color: #c1272c !important; }
 
 .ftco-navbar-light {
   background: #121618 !important;
@@ -7857,7 +7857,6 @@ h1, h2, h3, h4, h5,
   .services-wrap .img {
     display: block; }
   .services-wrap .text {
-    background: rgba(0, 0, 0, 0.2);
     position: relative; }
     .services-wrap .text h3 {
       font-size: 20px;
