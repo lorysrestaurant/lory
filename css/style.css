@@ -7307,6 +7307,11 @@ h1, h2, h3, h4, h5,
   font-weight: 400;
   font-family: "Josefin Sans", Arial, sans-serif; }
 
+.menu-headings {
+  color: #c1272c;
+  font-weight: 600;
+}
+
 .text-primary {
   color: #c1272c !important; }
 
