@@ -299,7 +299,7 @@
 	// })
 
 	$.ajax({
-		url: "http://localhost/lory/files/menu.csv",
+		url: "files/menu.csv",
 		async: false,
 		success: function (csvd) {
 			var items = $.csv.toObjects(csvd);
